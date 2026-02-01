@@ -1,0 +1,5 @@
+#FF5B23 - Orange
+#ADE6ED - Cyan
+#F2BB06 - Yellow
+#3A39FF - Blue
+#DCB8FF - Violet
